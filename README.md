@@ -1,4 +1,30 @@
-# React + Vite
+
+# Resume Builder Web App
+A modern and user-friendly resume builder web application that allows users to create, edit, and download professional resumes easily.
+
+## 🚀 Features
+* Create and edit resumes
+* Multiple resume templates
+* Download resume as PDF
+* User-friendly interface
+
+## 🛠️ Tech Stack
+* React.js
+* Vite
+* JavaScript
+* HTML & CSS
+
+## 📂 Project Setup
+```bash
+npm install
+npm run dev
+```
+
+## 🌐 Live Demo
+https://resume-ishika-2026.vercel.app/
+
+## 📌 Author
+Ishika Verma
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
